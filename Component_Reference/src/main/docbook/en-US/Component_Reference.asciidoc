@@ -7,7 +7,7 @@
 
 == Introduction
 
-This book is a guide to the various components available in the RichFaces 4.5.18-SNAPSHOT framework. It includes descriptions of the role of the components, details on how best to use them, coded examples of their use, and basic references of their properties and attributes.
+This book is a guide to the various components available in the RichFaces 4.6.0.ayg framework. It includes descriptions of the role of the components, details on how best to use them, coded examples of their use, and basic references of their properties and attributes.
 
 For full references for all component classes and properties, refer to the following supplementary documentation:
 

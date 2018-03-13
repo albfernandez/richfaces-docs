@@ -74,8 +74,7 @@
     </profiles>
 
     <scm>
-        <url>https://github.com/richfaces/docs/tree/develop/Component_Reference</url>
-      <tag>HEAD</tag>
+      <url>https://github.com/albfernandez/richfaces-docs</url>
   </scm>
 
 </project>

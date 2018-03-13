@@ -9,7 +9,7 @@
 
     <groupId>org.richfaces.docs</groupId>
     <artifactId>docs-aggregator</artifactId>
-    <version>4.5.18-SNAPSHOT</version>
+    <version>4.6.3.ayg</version>
     <packaging>pom</packaging>
     <name>RichFaces Document Aggregator</name>
 
@@ -17,8 +17,6 @@
         <module>parent</module>
         <module>Component_Reference</module>
         <module>Developer_Guide</module>
-        <!--<module>Migration_Guide</module>-->
-        <!--<module>Component_Development_Kit_Guide</module>-->
     </modules>
 
     <properties>

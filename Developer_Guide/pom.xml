@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.richfaces.docs</groupId>
         <artifactId>docs-parent</artifactId>
-        <version>4.5.18-SNAPSHOT</version>
+        <version>4.6.3.ayg</version>
         <relativePath>../parent/pom.xml</relativePath>
     </parent>
 
@@ -74,8 +74,7 @@
     </profiles>
 
     <scm>
-        <url>https://github.com/richfaces/docs/tree/develop/Developer_Guide</url>
-      <tag>HEAD</tag>
+      <url>https://github.com/albfernandez/richfaces-docs</url>
   </scm>
 
 </project>
