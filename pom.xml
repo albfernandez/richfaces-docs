@@ -9,7 +9,7 @@
 
     <groupId>org.richfaces.docs</groupId>
     <artifactId>docs-aggregator</artifactId>
-    <version>4.6.3.ayg</version>
+    <version>4.6.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>RichFaces Document Aggregator</name>
 
