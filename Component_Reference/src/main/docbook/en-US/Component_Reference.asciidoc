@@ -1069,6 +1069,8 @@ This chapter covers those components used to handle and manage resources and bea
 
 The [sgmltag]+<a4j:mediaOutput>+ component is used for generating images, video, sounds, and other resources defined on the fly.
 
+The [sgmltag]+<a4j:mediaOutput>+ is removed from this distribution due to CVE-2018-12532
+
 [[sect-Component_Reference-mediaOutput-Basic_usage]]
 
 ==== Basic usage
